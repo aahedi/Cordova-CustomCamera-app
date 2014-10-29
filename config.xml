@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.valx76.cordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CustomCameraApp</name>
+    <description>
+        Cordova app to use the CustomCamera plugin (to detect faces in realtime).
+    </description>
+    <author email="valx76@gmail.com" href="http://valentinpons.fr">
+        Valentin PONS
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
